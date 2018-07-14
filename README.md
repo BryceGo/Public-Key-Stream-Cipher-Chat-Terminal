@@ -8,17 +8,18 @@ To run the client/server chat terminal in linux:
 make all
 ```
 ```
-Execute ./client_output   (For the client-side)
-```
-```
-Type in the IP address and the keys.
-```
-```
 Execute ./serv_output     (For the server-side)
 ```
 ```
 Type in a key for the server.
 ```
+```
+Execute ./client_output   (For the client-side)
+```
+```
+Type in the IP address and the keys.
+```
+
 ```
 Ensure that both keys obtained are the same after the handshake is complete.
 ```
